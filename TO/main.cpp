@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-cout<< " Said.Hariz\n";
+cout<< " Said.hariz\n";
 
 return 0;
 
